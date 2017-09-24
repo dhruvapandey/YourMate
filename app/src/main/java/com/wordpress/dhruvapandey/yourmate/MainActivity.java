@@ -99,6 +99,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    //
     private String ReadRandom() {
         String rndTxt = "";
         BufferedReader reader;
