@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    //
+    // Read fromt he txt files
     private String ReadRandom() {
         String rndTxt = "";
         BufferedReader reader;
